@@ -7,7 +7,7 @@ O Projeto BlackJack ou Vinte-e-um é um jogo praticado com cartas em casinos e q
 Esse projeto foi inicialmente construído com a tecnologia em JavaScript e agora implementado em React.js.
 
 
-### 📝 Em Construção
+### 🛠 Em Construção
 - Todas as funcionalidades exigidas no projeto.
 - As telas trocam ao clicar o ícone de matches no canto superior ao lado do logo do Astromatch
 - É possível selecionar com Like ou Dislike os personagens dos cards;
