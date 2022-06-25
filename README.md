@@ -8,11 +8,7 @@ Esse projeto foi inicialmente construído com a tecnologia em JavaScript e agora
 
 
 ### 🚧 Em Construção
-- Todas as funcionalidades exigidas no projeto.
-- As telas trocam ao clicar o ícone de matches no canto superior ao lado do logo do Astromatch
-- É possível selecionar com Like ou Dislike os personagens dos cards;
-- É possível verificar na tela Matches os usuários que trocaram Matches com você;
-- É possível clicar no botão Clear e limpar todos os Matches.
+
 
 
 ### 🧪 Tecnologias
